@@ -1,2 +1,2 @@
-# JustHavingFun
-This is a test of the emergency broadcast system.
+# JustHavingAlotOfFun
+This is a test of the emergency broadcast system!
