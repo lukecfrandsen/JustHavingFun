@@ -1,0 +1,28 @@
+
+### 🎨 Art Assets
+- Classic 8-bit and 16-bit Mario sprites
+- Pixel art for characters, enemies, backgrounds
+- Animated GIFs for jumps, power-ups, etc.
+
+### 🧱 Level Design
+- Custom level layouts (JSON or Tiled format)
+- Tilesets based on classic NES themes
+- World maps and obstacle logic
+
+### 🧠 Game Logic (Optional)
+- Power-up rules, collision detection
+- Pipe warps, flagpoles, and checkpoints
+- Written in Python or JavaScript for demo builds
+
+---
+
+## 🌱 Contribution Guidelines
+
+- Keep everything kid-friendly and true to the Mario style
+- Use branches like `feature/level-1` or `feature/fire-flower`
+- Create a Pull Request (PR) when you're ready for feedback
+
+---
+
+## 🎮 Folder Structure
+
