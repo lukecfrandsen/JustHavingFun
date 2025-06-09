@@ -1,5 +1,6 @@
 # JustHavingAlotOfFun
-This is a test of the emergency broadcast system!
+This is a test of the emergency broadcast system! Another add.
+Mario is cool. Luigi is cooler.
 I wonder if this works.
 This is really cool.
 Check out the [GitHub Docs](https://docs.github.com/) for more info.
